@@ -7,6 +7,7 @@
     {id: 5, label: 'Node 5'}
   ]);
 
+  
   // create an array with edges
   var edges = new vis.DataSet([
     {from: 1, to: 3,label:'8'},
